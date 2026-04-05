@@ -5,7 +5,9 @@
 > **Legally accountable AI for autonomous vehicle operation**  
 > A Convergence Human & Technology research initiative
 
----
+<p align="center">
+  <img src="https://github.com/madjeek-web/about/raw/main/hr.png" alt="separator" width="300" height="3">
+</p>
 
 ## Overview
 
@@ -21,7 +23,9 @@ This repository is the public-facing reference point for the project.
 Core technical implementations, training pipelines, and certification 
 frameworks remain confidential.
 
----
+<p align="center">
+  <img src="https://github.com/madjeek-web/about/raw/main/hr.png" alt="separator" width="300" height="3">
+</p>
 
 ## Research Scope
 
@@ -31,7 +35,9 @@ frameworks remain confidential.
 - Fault-tolerance and zero-accident operational guarantees
 - Human-AI interaction at handover boundaries
 
----
+<p align="center">
+  <img src="https://github.com/madjeek-web/about/raw/main/hr.png" alt="separator" width="300" height="3">
+</p>
 
 ## Design Philosophy
 
@@ -43,7 +49,9 @@ constraint** not a post-deployment consideration. Every architectural
 decision flows from the question: *can this system formally account for 
 its actions in a court of law ?*
 
----
+<p align="center">
+  <img src="https://github.com/madjeek-web/about/raw/main/hr.png" alt="separator" width="300" height="3">
+</p>
 
 ## Status
 
@@ -51,20 +59,26 @@ its actions in a court of law ?*
 Collaboration inquiries may be directed through 
 [Convergence Human & Technology](https://github.com/Convergence-Human-And-Technology).
 
----
+<p align="center">
+  <img src="https://github.com/madjeek-web/about/raw/main/hr.png" alt="separator" width="300" height="3">
+</p>
 
 ## Organization
 
 Developed under **[Convergence Human & Technology](https://github.com/Convergence-Human-And-Technology)**  
 A French digital services company specializing in executive AI systems.
 
----
+<p align="center">
+  <img src="https://github.com/madjeek-web/about/raw/main/hr.png" alt="separator" width="300" height="3">
+</p>
 
 ## License
 
 Research methodology and public documentation : MIT  
 All proprietary technical components remain under private license.
 
----
+<p align="center">
+  <img src="https://github.com/madjeek-web/about/raw/main/hr.png" alt="separator" width="300" height="3">
+</p>
 
 *Convergence Human & Technology - Human intelligence, machine precision.*
