@@ -27,6 +27,8 @@ frameworks remain confidential.
   <img src="https://github.com/madjeek-web/about/raw/main/hr.png" alt="separator" width="300" height="3">
 </p>
 
+![Convergence Cover](https://raw.githubusercontent.com/Convergence-Human-And-Technology/sovereign-drive/main/sovereign-drive-city-car.jpg)
+
 ## Research Scope
 
 - Formal accountability models for AI decision-making in mobility contexts
